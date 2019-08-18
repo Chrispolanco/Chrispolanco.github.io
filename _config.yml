@@ -1,11 +1,11 @@
 # Site settings
 author: Christian Polanco
-title: 
+title: Day and Night and everything in between 
 header-img: img/home-bg.png
 email: chrispolanco@sbcglobal.net
 copyright_name: Christian Polanco
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Short Essay's about taking steps forward 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Chrispolanco
