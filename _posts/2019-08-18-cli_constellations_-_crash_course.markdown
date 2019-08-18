@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Constellations - Crash Course "
-date:       2019-08-18 23:13:05 +0000
+date:       2019-08-18 19:13:06 -0400
 permalink:  cli_constellations_-_crash_course
 ---
 
