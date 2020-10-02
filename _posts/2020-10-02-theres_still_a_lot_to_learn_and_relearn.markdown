@@ -41,7 +41,9 @@ As can be seen above when using erb the location of the erb file must be specifi
 
 This wasn't the only concept that cleared for me when trying to finish this mini-project. 
 
+
 One refresher came while I was completing the the Sinatra Fwitter project, it was what `||=` was used for. `||=` states that if whatever is to the left of is false or equal to nil then and only then assign it to the formula that is to the right of it.
+
 
       `@current_user ||= User.find_by(id: session[:user_id]) if session[:user_id]`
 
