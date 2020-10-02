@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "There's still a lot to learn"
+title:      "There's still a lot to learn and relearn"
 date:       2020-10-02 01:40:04 -0400
 permalink:  theres_still_a_lot_to_learn
 ---
