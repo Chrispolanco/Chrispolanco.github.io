@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "There's still a lot to learn"
-date:       2020-10-02 05:40:04 +0000
+date:       2020-10-02 01:40:04 -0400
 permalink:  theres_still_a_lot_to_learn
 ---
 
