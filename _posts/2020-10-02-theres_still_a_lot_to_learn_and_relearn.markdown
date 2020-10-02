@@ -47,9 +47,9 @@ One refresher came while I was completing the the Sinatra Fwitter project, it wa
 
       `@current_user ||= User.find_by(id: session[:user_id]) if session[:user_id]`
 
-In the example above it is stating that if @current_user equals nil then assign @current_user to the User that is equal to the user_id of the session. But only if the session has a current user. 
+In the example above it is stating that if `@current_user` equals nil then assign `@current_user` to the User that is equal to the `user_id` of the session. But only if the session has a current user. 
 
-In this example if @current_user equals nil and session[:user_id] equals nil as well then and only then will @current_user equal nil. 
+In this example if `@current_user` equals nil and `session[:user_id]` equals nil as well then and only then will `@current_user` equal nil. 
 
 
 
